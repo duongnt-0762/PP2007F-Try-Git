@@ -1,0 +1,7 @@
+buoc 1 : git checkout -b "ten nhanh"
+chinh sua file tren may
+buoc 2 : git status
+kiem tra git branch
+buoc 3 : git add -A
+buoc 4 : git commit -m "ten commit"
+buoc 5 : git push origin "ten nhanh"
