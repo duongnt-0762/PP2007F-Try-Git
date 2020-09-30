@@ -1,4 +1,4 @@
-git check out master
+git checkout master
 git pull awesome master
 git checkout - b tennhanh
 git rebase master
