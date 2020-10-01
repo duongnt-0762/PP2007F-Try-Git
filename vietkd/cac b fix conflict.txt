@@ -1,0 +1,11 @@
+1. Đồng bộ hóa nhánh master của local và repo chung git check out master
+git pull awesome master
+2. Trở về nhánh bị coonflr bằng lệnh git checkout + tên nhanh
+3. đồng bộ hóa nhánh master và nhánh đang đứng = git rebase master
+4. kiểm tra branch đang đứng = git branch nếu đang đứng ở nhánh no branch thì đang bị conflix
+5. Ktra statut để xem nhưngx file bị conflix = git status những file màu đỏ là những file bị conflix 
+6. Mở các file bị confilx và sửa, lưu ý những file cần sửa phải có sự thống nhất của các thành viên
+7. Sau khi sửa hết các file sử dụng lệnh git add . (git add -A)
+git rebase -- continues
+8. Ktra branch nếu vẫn ở nhánh no branch thục hiện tiếp các bước 5, 6, 7 cho đến khi ở 1 nhánh xác định
+9. Đẩy lại push = git push orgin tên nhánh -f
