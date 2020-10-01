@@ -1,0 +1,10 @@
+buoc 1: kiem tra nhanh dang dung 
+su dung lenh git branch, neu dang o master co the tao ra 1 nhanh moi. Neu khong checkout ve master bang lenh git checkout master.
+buoc 2: dam bao rang nhanh master cua local phai la moi nhat suy ra phai pull tu repos chung bang lenh git pull awesome master.
+buoc 3: tao ra mot nhanh moibang lenh git checkout -b tennhanh 
+buoc 4: dong bo hoa master va nhanh vua tao bang lenh git rebase master
+buoc 5: thuc hien cac thao tac code
+buoc 6: sau khi da dam bao hoan thanh xong tinh nang can them cac file bang lenh git add -A
+buoc 7: tao commit moi bang lenh git commit -m temcommit 
+buoc 8: day commit len bang lenh git push origin tennhanh 
+buoc 9: len github de tao pull va gui pull cho trainer
