@@ -1,0 +1,18 @@
+2.
+
+lưu ý 1 push requet chỉ có 1 commit vì vậy trước khi gửi pull cần kiểm tra xem pull đấy đang có bao nhiêu commit = lệnh: git log hoặc git log -- online
+Số lượng commit của 1 push được tính bằng số lượng từ commit meger trở lên.
+VD: push đang có 2 commit
+để gộp 2 commit này: git rebase -i HEAD~number_commit(số lượng commit)
+giữ  nguyên pick đầu tiên từ pick thứ 2 đổ đi đổi pick thành "s"
+ctrl+x
+y 
+enter
+chỉ gữ lại duy nhất 1 tên, các tên còn lại thêm dấu # vào đăng trươcs
+ctrl+x
+y 
+enter
+Sau đó gửi lại push bằng git push origin tên nhánh -f
+
+
+Để tạo không tạo ra commit thứ 2 thì sau khi sử dụng lệnh git add ta có thể sử dụng lệnh git commit --amend
