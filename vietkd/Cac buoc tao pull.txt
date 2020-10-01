@@ -1,0 +1,11 @@
+1 . Kiểm tra nhánh đang đứng sử dụng lệnh git branch,  nếu đang ở master có thể tạo ra nhánh mới.
+nếu không checkout về master bằng lệnh git checkout master.
+2. Đảm bảo nhánh master của local phải là mới nhất => phải pull từ repo chung = git pull awersome master
+3. tạo ra nhánh mới bằng lệnh git checkout -b tên_nhanh
+4. đồng bộ hóa master và nhanhs vừa tạo bằng lệnh git rebase master
+5. thực hiện các thao tác code 
+6. sau khi đảm bảo hoàn thành xong tính năng cần thêm các file bằng lệnh git add. (git add -A)
+7. Tạo commit mới bằng lệnh git commit -m têncommit
+8. Đẩy commit lên = lệnh git pust orgin tênnhanh
+9. lên githup để tạo push và gửi push cho trainer
+
