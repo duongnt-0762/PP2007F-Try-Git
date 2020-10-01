@@ -1,0 +1,9 @@
+Buoc 1: Kiem tra nhanh dang dung, su dung lenh: git branch. Neu nhu dang o "master" thi co the tao ra mot nhanh moi. Neu khong, checkout ve "master" bang lenh: git checkout master
+Buoc 2: Dam bao rang nhanh "master" cua local phai la moi nhat => phai pull tu Repo chung bang lenh: git pull ten_remote master
+Buoc 3: Tao ra mot nhanh moi bang lenh: git checkout -b tennhanh
+Buoc 4: Dong bo hoa master voi nhanh vua tao bang lenh: git rebase master
+Buoc 5: Thuc hien cac thao tac code
+Buoc 6: Sau khi dam bao xong toan bo tinh nang, can them cac phai bang lenh: git add .
+Buoc 7: Tao commit moi bang lenh: git commit -m tem_commit
+Buoc 8: Day commit len bang lenh: git push origin ten_nhanh
+Buoc 9: Len GitHub de taoj pull request vaf gui pull request cho trainer
