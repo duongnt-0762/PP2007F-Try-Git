@@ -1,0 +1,25 @@
+buoc 1 : Dong bo hoa nhanh master cua local va master cua repo chung: 
+git checkout master
+git pull awesome master
+
+buoc 2 : tro ve nhanh bi conflict bang lenh : git checkout ten nhanh
+
+buoc 3 : Dong bo hoa nhanh master va nhanh dang dung bang lenh :
+git rebase master
+
+buoc 4 : kiem tra dang dung bang lenh : git branch
+Neu dang o no branch => dang bi conflict
+
+buoc 5 : kiem tra status de xem nhung file bi conflict bang lenh : git status
+Nhung file mau do la nhung file bi conflict
+
+buoc 6 : mo cac file bi conflict va sua
+(Luu y : khi sua file can co su thong nhat giua cac member trong team)
+
+buoc 7 : Sau khi sua het cac file thi su dung lenh : git add -A
+ git rebase --continue
+
+buoc 8 : Kiem tra branch, neu nhu van o nhanh no branch thi thuc hien tiep cac buoc 5-6-7 cho den khi o mot nhanh xac dinh.
+
+buoc 9 : Day lai pull bang lenh : git push origin ten nhanh -f
+
