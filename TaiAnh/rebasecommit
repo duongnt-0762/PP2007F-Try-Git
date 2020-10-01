@@ -1,0 +1,19 @@
+Luu y: 1 full request chi co duy nhat 1 commit, vi vay truoc khi gui pull can kiem tra xem pull do dang co bao nhieu commit bang lenh git log hoac git log --oneline.
+so luong commit cua mot pull duoc tinh bang so luong commit tu commit merge gan nhat do len.
+
+Vi du: pull dang co 2 commit 
+de gop duoc 2 commit nay ta lam nhu sau:
+su dung lenh git rebase -i HEAD~soluong_commit
+giu nguyen pick dau tien, tu pick thu 2 do di doi pick thanh s 
+ctrl+x
+y
+enter
+chi giu lai duy nhat 1 ten, cac ten con lai them dau # vao dang truoc 
+ctrl+x
+y
+enter
+
+sau do gui lai pull bang lenh git push origin tennhanh -f
+
+
+de khong tao ra commit thu 2 thi sau khi su dung lenh git add chung ta co the su dung lenh git commit --amend (khong dung khi chi co 1 commit)
