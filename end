@@ -1,0 +1,24 @@
+[33m21a85f0[m[33m ([m[1;36mHEAD -> [m[1;32mnewbranch[m[33m, [m[1;31morigin/newbranch[m[33m)[m commit1
+[33maf18296[m[33m ([m[1;31mawesome/master[m[33m, [m[1;32mmaster[m[33m)[m Merge pull request #29 from TaiAnh123/conflict1
+[33mf5c3299[m conflict01
+[33m7b76eed[m Merge pull request #30 from trongbv9797/conflict2
+[33m4f6f948[m conflict02
+[33meee9bc9[m Merge pull request #31 from duongnt-0762/fix-conflict
+[33ma9dceba[m conlifct
+[33m35ab015[m Merge pull request #27 from trongbv9797/hello_conflict
+[33m1b3d818[m hello conflict
+[33mf26a5dd[m Merge pull request #9 from lehieu0410/Nhanh2
+[33md01d63e[m Merge pull request #24 from kviet91/nhanh2
+[33m9c6fe21[m Merge pull request #5 from trongbv9797/flow1
+[33mfdc5b1d[m nhanh2.1
+[33m19b510e[m[33m ([m[1;31morigin/Nhanh2[m[33m, [m[1;32mNhanh2[m[33m)[m commit2
+[33m168f90f[m nhanh2
+[33m2c1f0d5[m[33m ([m[1;32mflow1[m[33m)[m Merge pull request #4 from trongbv9797/maytinhbotui
+[33mcfecae9[m Merge pull request #1 from kviet91/maytinhbotui
+[33m7d6a234[m Merge pull request #3 from lehieu0410/maytinhbotui
+[33me1fe03e[m Merge pull request #2 from TaiAnh123/maytinhbotui
+[33meb4e97f[m bai tap 1
+[33m4914738[m baitapJS
+[33m29b7c94[m baitap
+[33m21b84c9[m[33m ([m[1;31morigin/maytinhbotui[m[33m, [m[1;32mmaytinhbotui[m[33m)[m baitapJavascript
+[33me904726[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Initial commit
