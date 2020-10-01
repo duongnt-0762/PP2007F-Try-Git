@@ -1,0 +1,10 @@
+Buoc 1: Dong bo hoa nhanh master cua local va master cua Repo chung: git checkout master
+git pull ten_remote master
+Buoc 2: Tro ve nhanh bi conflict bang lenh: git checkout ten_nhanh
+Buoc 3: Dong bo hoa nhanh master va nhanh dang dung bang lenh: git rebase master
+Buoc 4: Kiem tra branch dang dung bang lenh: git branch. Neu dang dung o nhanh nobranch co nghia la dang bi conflict
+Buoc 5: Kiem tra status de xem nhung file dang bi conflict bang lenh: git status. Nhung file mau do la nhung file bi conflict
+Buoc 6: Mo cac file bi conflict va sua. Luu y: Khi sua file can co su thong nhat cac member trong team
+Buoc 7: Sau khi da sua het cac file thi su dung lenh git add . , git rebase --continue
+Buoc 8: Kiem tra branch. Neu nhu van o nhanh nobranch thi thuc hien tiep cac buoc 5 6 7 cho den khi o mot nhanh xac dinh
+Buoc 9: Day laij puu request bang lenh: git push origin ten_nhanh -f
