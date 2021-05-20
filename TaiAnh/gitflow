@@ -1,0 +1,7 @@
+b1: git checkout -b "ten nhanh"
+Chinh sua file tren may
+b2: git status
+kiem tra git branch
+b3: git add -A 
+b4: git commit -m "ten commit"
+b5: git push origin "ten nhanh"
